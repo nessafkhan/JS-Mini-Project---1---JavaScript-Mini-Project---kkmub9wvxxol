@@ -1,7 +1,7 @@
 #  Quiz Game with HTML, CSS JavaScript
 
 ## About
-Qui-G is a quiz game wich is built using **HTML, CSS, and JavaScript**. Implemented highscore feature using **Browser's Localstorage**. Used **Trivia OpenDB API** for fetching questions. Used modern **ES6 Javascript** features.
+Qui-G is a quiz game which is built using **HTML, CSS, and JavaScript**. Implemented highscore feature using **Browser's Localstorage**. Used **Trivia OpenDB API** for fetching questions. Used modern **ES6 Javascript** features.
 
 ## Features
 -   Save high scores in Local Storage
