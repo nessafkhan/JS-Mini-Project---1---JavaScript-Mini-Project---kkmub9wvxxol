@@ -131,3 +131,20 @@ input{
 input::placeholder{
     color: #aaa;
 }
+
+
+/* MOBILE RESPONSIVE */
+@media (max-width: 490px){
+    h2,
+    h3{
+        font-size: 3.2rem;
+    }
+}
+
+/* TEABLET RESPONSIVE */
+@media  (max-width: 625px){
+    h2,
+    h3{
+        font-size: 3.2rem;
+    }
+}
